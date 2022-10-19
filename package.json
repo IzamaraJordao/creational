@@ -1,0 +1,14 @@
+{
+  "name": "designer-patterns",
+  "version": "1.0.0",
+  "description": "design patterns exemplo creational builder",
+  "main": "index.js",
+  "author": "Izamara Jordão",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
